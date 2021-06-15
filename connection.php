@@ -4,10 +4,7 @@ $uid = "root";
 $pwd = "";
 $dbname="propertymanagement";
 
-// $host = "localhost"; 
-// $uid ="ireproperty_nafseer"; 
-// $pwd ="6[deHUr%l2~x"; 
-// $dbname="ireproperty_pro_mana";
+
 
 $con = mysqli_connect($host,$uid,$pwd,$dbname);
 
