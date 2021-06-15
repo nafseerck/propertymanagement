@@ -12,7 +12,6 @@ $db = mysqli_connect('localhost', 'root', '', 'propertymanagement');
 
 
 
-// $db = mysqli_connect('localhost', 'ireproperty_nafseer', '6[deHUr%l2~x', 'ireproperty_pro_mana');
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
